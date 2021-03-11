@@ -3,4 +3,10 @@ class LoginDao
 {
 
 //LoginDao
+
+public void insertUser(){
+
+
+}
+
 }
